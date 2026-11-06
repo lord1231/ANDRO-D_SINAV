@@ -1,9 +1,12 @@
 let bank=[],history=[],exam=null;
+const BANK_KEY='tk_bank_v2';
 const $=id=>document.getElementById(id);
-function init(){bank=Array.isArray(window.TK_QUESTION_BANK)?window.TK_QUESTION_BANK:[];
-const saved=localStorage.getItem('tk_bank');if(saved){try{const old=JSON.parse(saved);if(Array.isArray(old)&&old.length>0)bank=old;else localStorage.removeItem('tk_bank')}catch(e){localStorage.removeItem('tk_bank')}}
+function validBank(data){return Array.isArray(data)&&data.length>0&&data.every(q=>q&&typeof q.subject==='string'&&typeof q.term==='string'&&typeof q.question==='string'&&Array.isArray(q.options)&&q.options.length===4&&Number.isInteger(q.answer)&&q.answer>=0&&q.answer<4)}
+function init(){const bundled=window.TK_QUESTION_BANK;bank=validBank(bundled)?bundled:[];
+localStorage.removeItem('tk_bank');
+const saved=localStorage.getItem(BANK_KEY);if(saved){try{const old=JSON.parse(saved);if(validBank(old))bank=old;else localStorage.removeItem(BANK_KEY)}catch(e){localStorage.removeItem(BANK_KEY)}}
 history=JSON.parse(localStorage.getItem('tk_history')||'[]');renderHome()}
-function save(){localStorage.setItem('tk_bank',JSON.stringify(bank));localStorage.setItem('tk_history',JSON.stringify(history))}
+function save(){localStorage.setItem(BANK_KEY,JSON.stringify(bank));localStorage.setItem('tk_history',JSON.stringify(history))}
 function subjects(){return [...new Set(bank.map(x=>x.subject))]}
 function renderHome(){let ss=subjects();$('subject').innerHTML=ss.map(s=>`<option>${esc(s)}</option>`).join('');$('subjects').innerHTML=ss.map(s=>`<button class="subject" onclick="chooseSubject('${esc(s)}')"><b>${esc(s)}</b><span>${bank.filter(x=>x.subject===s).length} soru • Havuz</span></button>`).join('');
 $('totalQ').textContent=bank.length;$('examCount').textContent=history.length;$('avgScore').textContent=history.length?Math.round(history.reduce((a,b)=>a+b.score,0)/history.length):'—';
