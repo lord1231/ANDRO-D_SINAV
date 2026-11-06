@@ -1,7 +1,7 @@
 let bank=[],history=[],exam=null;
 const $=id=>document.getElementById(id);
-async function init(){try{bank=JSON.parse(await (await fetch('questions.json')).text())}catch(e){bank=[]}
-const saved=localStorage.getItem('tk_bank');if(saved){try{bank=JSON.parse(saved)}catch(e){}}
+function init(){bank=Array.isArray(window.TK_QUESTION_BANK)?window.TK_QUESTION_BANK:[];
+const saved=localStorage.getItem('tk_bank');if(saved){try{const old=JSON.parse(saved);if(Array.isArray(old)&&old.length>0)bank=old;else localStorage.removeItem('tk_bank')}catch(e){localStorage.removeItem('tk_bank')}}
 history=JSON.parse(localStorage.getItem('tk_history')||'[]');renderHome()}
 function save(){localStorage.setItem('tk_bank',JSON.stringify(bank));localStorage.setItem('tk_history',JSON.stringify(history))}
 function subjects(){return [...new Set(bank.map(x=>x.subject))]}
