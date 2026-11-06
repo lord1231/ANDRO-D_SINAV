@@ -1,0 +1,24 @@
+let bank=[],history=[],exam=null;
+const $=id=>document.getElementById(id);
+async function init(){try{bank=JSON.parse(await (await fetch('questions.json')).text())}catch(e){bank=[]}
+const saved=localStorage.getItem('tk_bank');if(saved){try{bank=JSON.parse(saved)}catch(e){}}
+history=JSON.parse(localStorage.getItem('tk_history')||'[]');renderHome()}
+function save(){localStorage.setItem('tk_bank',JSON.stringify(bank));localStorage.setItem('tk_history',JSON.stringify(history))}
+function subjects(){return [...new Set(bank.map(x=>x.subject))]}
+function renderHome(){let ss=subjects();$('subject').innerHTML=ss.map(s=>`<option>${esc(s)}</option>`).join('');$('subjects').innerHTML=ss.map(s=>`<button class="subject" onclick="chooseSubject('${esc(s)}')"><b>${esc(s)}</b><span>${bank.filter(x=>x.subject===s).length} soru • Havuz</span></button>`).join('');
+$('totalQ').textContent=bank.length;$('examCount').textContent=history.length;$('avgScore').textContent=history.length?Math.round(history.reduce((a,b)=>a+b.score,0)/history.length):'—';
+$('history').innerHTML=history.length?history.slice().reverse().slice(0,8).map(h=>`<p><b>${esc(h.subject)}</b> <span class="muted">• ${esc(h.date)} • ${h.score}/100</span></p>`).join(''):'<span class="muted">Henüz sınav tamamlanmadı.</span>'}
+function chooseSubject(s){$('subject').value=s;window.scrollTo(0,0)}
+function startExam(){let s=$('subject').value,t=$('term').value,n=+$('count').value;let pool=bank.filter(q=>q.subject===s&&(t==='all'||q.term===t));if(!pool.length){alert('Bu seçimde soru bulunamadı.');return}if(pool.length<n){alert(`Bu seçimde yalnızca ${pool.length} soru var. Soru sayısını azaltın veya tüm dönemleri seçin.`);return}
+pool=pool.sort(()=>Math.random()-.5).slice(0,n);exam={subject:s,questions:pool,index:0,answers:Array(n).fill(null),term:t};show('exam');$('examMeta').textContent=s;$('examMeta').title=t;renderQ()}
+function renderQ(){let q=exam.questions[exam.index];$('counter').textContent=`${exam.index+1} / ${exam.questions.length}`;$('bar').style.width=((exam.index+1)/exam.questions.length*100)+'%';$('qtext').textContent=q.question;$('answers').innerHTML=q.options.map((o,i)=>`<button class="option ${exam.answers[exam.index]===i?'selected':''}" onclick="answer(${i})">${'ABCD'[i]}) ${esc(o)}</button>`).join('');$('nextBtn').textContent=exam.index===exam.questions.length-1?'Son sorudasın':'Sonraki'}
+function answer(i){exam.answers[exam.index]=i;renderQ()}
+function prevQ(){if(exam.index>0){exam.index--;renderQ()}}
+function nextQ(){if(exam.index<exam.questions.length-1){exam.index++;renderQ()}}
+function finishExam(){if(!confirm('Sınavı bitirip cevapları değerlendirelim mi?'))return;let correct=0,wrong=0,blank=0;exam.questions.forEach((q,i)=>{let a=exam.answers[i];if(a===null)blank++;else if(a===q.answer)correct++;else wrong++});let score=Math.round(correct/exam.questions.length*100);let record={subject:exam.subject,date:new Date().toLocaleString('tr-TR'),score,correct,wrong,blank,total:exam.questions.length};history.push(record);save();$('score').textContent=score;$('resultText').textContent=score>=85?'Harika! Çok iyi çalışmışsın.':score>=60?'Güzel çalışma, biraz daha tekrar yapabilirsin.':'Konu tekrarı yapıp yeniden deneyebilirsin.';$('correctN').textContent=`Doğru: ${correct}`;$('wrongN').textContent=`Yanlış: ${wrong}`;$('blankN').textContent=`Boş: ${blank}`;$('review').innerHTML=exam.questions.map((q,i)=>{let a=exam.answers[i],ok=a===q.answer;return `<div class="panel" style="margin:8px 0"><b>${i+1}. ${esc(q.question)}</b><p class="${a===null?'':ok?'correct':'wrong'}">Senin cevabın: ${a===null?'Boş':'ABCD'[a]+') '+esc(q.options[a])}</p><p class="correct">Doğru cevap: ${'ABCD'[q.answer]}) ${esc(q.options[q.answer])}</p></div>`}).join('');show('result');renderHome()}
+function show(id){['home','exam','result'].forEach(x=>$(x).classList.toggle('hidden',x!==id))}
+function goHome(){show('home');renderHome()}
+function esc(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+function exportData(){let blob=new Blob([JSON.stringify({bank,history},null,2)],{type:'application/json'}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='tahta-kalem-sinav-yedek.json';a.click();URL.revokeObjectURL(a.href)}
+function importData(e){let f=e.target.files[0];if(!f)return;let r=new FileReader();r.onload=()=>{try{let d=JSON.parse(r.result);if(!Array.isArray(d.bank))throw Error();bank=d.bank;history=Array.isArray(d.history)?d.history:history;save();renderHome();alert('Yedek yüklendi.')}catch(x){alert('Yedek dosyası okunamadı.')}};r.readAsText(f)}
+init();

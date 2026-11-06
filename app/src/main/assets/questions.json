@@ -1,0 +1,2242 @@
+[
+  {
+    "id": "001",
+    "subject": "Türkçe",
+    "term": "1. Dönem",
+    "question": "“Kitap okumayı çok severim.” cümlesinde kaç kelime vardır?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "002",
+    "subject": "Türkçe",
+    "term": "1. Dönem",
+    "question": "“Mutlu” kelimesinin eş anlamlısı hangisidir?",
+    "options": [
+      "Üzgün",
+      "Neşeli",
+      "Kızgın",
+      "Yorgun"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "003",
+    "subject": "Türkçe",
+    "term": "1. Dönem",
+    "question": "“Uzun” kelimesinin zıt anlamlısı hangisidir?",
+    "options": [
+      "Geniş",
+      "Kısa",
+      "Büyük",
+      "Yüksek"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "004",
+    "subject": "Türkçe",
+    "term": "1. Dönem",
+    "question": "Aşağıdakilerden hangisi özel isimdir?",
+    "options": [
+      "şehir",
+      "kalem",
+      "Ankara",
+      "okul"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "005",
+    "subject": "Türkçe",
+    "term": "1. Dönem",
+    "question": "Hangi cümlenin sonuna soru işareti konur?",
+    "options": [
+      "Bugün hava güzel",
+      "Saat kaç",
+      "Eve gittim",
+      "Kitabımı aldım"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "006",
+    "subject": "Türkçe",
+    "term": "1. Dönem",
+    "question": "“Kırmızı araba hızla geçti.” cümlesinde varlığı niteleyen kelime hangisidir?",
+    "options": [
+      "araba",
+      "hızla",
+      "kırmızı",
+      "geçti"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "007",
+    "subject": "Türkçe",
+    "term": "1. Dönem",
+    "question": "Aşağıdakilerden hangisi çoğul isimdir?",
+    "options": [
+      "çiçek",
+      "evler",
+      "masa",
+      "defter"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "008",
+    "subject": "Türkçe",
+    "term": "1. Dönem",
+    "question": "“Gözlük” kelimesi hangi iki kelimenin birleşmesiyle oluşmuştur?",
+    "options": [
+      "göz + lük",
+      "göz + lükçü",
+      "göz + lükler",
+      "göz + cük"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "009",
+    "subject": "Türkçe",
+    "term": "1. Dönem",
+    "question": "Hangisi bir duygu bildiren kelimedir?",
+    "options": [
+      "sevinç",
+      "masa",
+      "kapı",
+      "silgi"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "010",
+    "subject": "Türkçe",
+    "term": "1. Dönem",
+    "question": "“Ali, bugün parka gitti.” cümlesinde virgülün görevi nedir?",
+    "options": [
+      "Soru sormak",
+      "Eş görevli sözcükleri ayırmak",
+      "Hitap sözünü ayırmak",
+      "Duraklama sağlamak"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "011",
+    "subject": "Türkçe",
+    "term": "2. Dönem",
+    "question": "Bir metnin ana fikri nedir?",
+    "options": [
+      "Metindeki kişi",
+      "Metnin vermek istediği temel mesaj",
+      "Metnin başlığı",
+      "Olayın geçtiği yer"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "012",
+    "subject": "Türkçe",
+    "term": "2. Dönem",
+    "question": "Aşağıdakilerden hangisi eş sesli kelimedir?",
+    "options": [
+      "yüz",
+      "masa",
+      "kitap",
+      "kalem"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "013",
+    "subject": "Türkçe",
+    "term": "2. Dönem",
+    "question": "“Çocuklar bahçede oynuyor.” cümlesinde işi yapan kimdir?",
+    "options": [
+      "bahçede",
+      "oynuyor",
+      "çocuklar",
+      "belirtilmemiş"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "014",
+    "subject": "Türkçe",
+    "term": "2. Dönem",
+    "question": "Hangisi neden-sonuç cümlesidir?",
+    "options": [
+      "Ders çalışmak için oturdu",
+      "Yağmur yağdığı için maç ertelendi",
+      "Yarın geleceğim",
+      "Kitabı masaya koydu"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "015",
+    "subject": "Türkçe",
+    "term": "2. Dönem",
+    "question": "Aşağıdakilerden hangisi doğru yazılmıştır?",
+    "options": [
+      "herkez",
+      "yanlız",
+      "birçok",
+      "şöför"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "016",
+    "subject": "Türkçe",
+    "term": "2. Dönem",
+    "question": "“Minik kuş daldan dala kondu.” cümlesinde hareket bildiren kelime hangisidir?",
+    "options": [
+      "minik",
+      "kuş",
+      "daldan",
+      "kondu"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "017",
+    "subject": "Türkçe",
+    "term": "2. Dönem",
+    "question": "Bir hikâyede olayların yaşandığı yere ne denir?",
+    "options": [
+      "Zaman",
+      "Mekân",
+      "Konu",
+      "Ana fikir"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "018",
+    "subject": "Türkçe",
+    "term": "2. Dönem",
+    "question": "Hangisi gerçek anlamda kullanılmıştır?",
+    "options": [
+      "Tatlı söz söyledi",
+      "Soğuk bir tavır takındı",
+      "Buz gibi su içti",
+      "İçi yandı"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "019",
+    "subject": "Türkçe",
+    "term": "2. Dönem",
+    "question": "Aşağıdakilerden hangisi kitap bölümlerinden biridir?",
+    "options": [
+      "İçindekiler",
+      "Pil",
+      "Cetvel",
+      "Harita ölçeği"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "020",
+    "subject": "Türkçe",
+    "term": "2. Dönem",
+    "question": "Bir konuşmada karşımızdakini dikkatle dinlemek hangi davranıştır?",
+    "options": [
+      "Söz kesmek",
+      "Dinleme kurallarına uymak",
+      "Bağırmak",
+      "Konuyu değiştirmek"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "021",
+    "subject": "Matematik",
+    "term": "1. Dönem",
+    "question": "348 + 125 işleminin sonucu kaçtır?",
+    "options": [
+      "463",
+      "473",
+      "483",
+      "493"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "022",
+    "subject": "Matematik",
+    "term": "1. Dönem",
+    "question": "700 - 286 işleminin sonucu kaçtır?",
+    "options": [
+      "414",
+      "424",
+      "434",
+      "444"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "023",
+    "subject": "Matematik",
+    "term": "1. Dönem",
+    "question": "24 × 3 işleminin sonucu kaçtır?",
+    "options": [
+      "62",
+      "68",
+      "72",
+      "78"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "024",
+    "subject": "Matematik",
+    "term": "1. Dönem",
+    "question": "96 ÷ 8 işleminin sonucu kaçtır?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "025",
+    "subject": "Matematik",
+    "term": "1. Dönem",
+    "question": "5 608 sayısında 6 rakamının basamak değeri kaçtır?",
+    "options": [
+      "6",
+      "60",
+      "600",
+      "6000"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "026",
+    "subject": "Matematik",
+    "term": "1. Dönem",
+    "question": "En yakın yüzlüğe yuvarlandığında 347 sayısı kaç olur?",
+    "options": [
+      "300",
+      "350",
+      "400",
+      "500"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "027",
+    "subject": "Matematik",
+    "term": "1. Dönem",
+    "question": "Bir düzine kaç tanedir?",
+    "options": [
+      "10",
+      "12",
+      "20",
+      "24"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "028",
+    "subject": "Matematik",
+    "term": "1. Dönem",
+    "question": "3/4 kesrinde pay kaçtır?",
+    "options": [
+      "3",
+      "4",
+      "7",
+      "1"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "029",
+    "subject": "Matematik",
+    "term": "1. Dönem",
+    "question": "Bir kenarı 5 cm olan karenin çevresi kaç cm'dir?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "030",
+    "subject": "Matematik",
+    "term": "1. Dönem",
+    "question": "2 saat kaç dakikadır?",
+    "options": [
+      "60",
+      "90",
+      "120",
+      "180"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "031",
+    "subject": "Matematik",
+    "term": "2. Dönem",
+    "question": "1 250 + 2 375 işleminin sonucu kaçtır?",
+    "options": [
+      "3 525",
+      "3 625",
+      "3 725",
+      "3 825"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "032",
+    "subject": "Matematik",
+    "term": "2. Dönem",
+    "question": "8 × 7 işleminin sonucu kaçtır?",
+    "options": [
+      "48",
+      "54",
+      "56",
+      "64"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "033",
+    "subject": "Matematik",
+    "term": "2. Dönem",
+    "question": "Bir bütünün yarısı hangi kesirle gösterilir?",
+    "options": [
+      "1/3",
+      "1/2",
+      "2/3",
+      "3/4"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "034",
+    "subject": "Matematik",
+    "term": "2. Dönem",
+    "question": "3 metre kaç santimetredir?",
+    "options": [
+      "30",
+      "300",
+      "3000",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "035",
+    "subject": "Matematik",
+    "term": "2. Dönem",
+    "question": "Kısa kenarı 4 cm, uzun kenarı 7 cm olan dikdörtgenin çevresi kaç cm'dir?",
+    "options": [
+      "11",
+      "18",
+      "22",
+      "28"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "036",
+    "subject": "Matematik",
+    "term": "2. Dönem",
+    "question": "Saat 14.30'dan 1 saat sonra saat kaç olur?",
+    "options": [
+      "15.00",
+      "15.30",
+      "16.00",
+      "16.30"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "037",
+    "subject": "Matematik",
+    "term": "2. Dönem",
+    "question": "Bir ürün 25 TL, diğeri 18 TL ise toplam kaç TL eder?",
+    "options": [
+      "33",
+      "38",
+      "43",
+      "53"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "038",
+    "subject": "Matematik",
+    "term": "2. Dönem",
+    "question": "450 sayısının 10 katı kaçtır?",
+    "options": [
+      "450",
+      "900",
+      "4 050",
+      "4 500"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "039",
+    "subject": "Matematik",
+    "term": "2. Dönem",
+    "question": "Bir yılda kaç ay vardır?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "040",
+    "subject": "Matematik",
+    "term": "2. Dönem",
+    "question": "90 sayfalık kitabın 35 sayfası okunursa kaç sayfa kalır?",
+    "options": [
+      "45",
+      "50",
+      "55",
+      "65"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "041",
+    "subject": "Fen Bilimleri",
+    "term": "1. Dönem",
+    "question": "Dünya'nın doğal ısı ve ışık kaynağı hangisidir?",
+    "options": [
+      "Ay",
+      "Güneş",
+      "Mars",
+      "Yıldız kayması"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "042",
+    "subject": "Fen Bilimleri",
+    "term": "1. Dönem",
+    "question": "Aşağıdakilerden hangisi canlıdır?",
+    "options": [
+      "Taş",
+      "Masa",
+      "Çam ağacı",
+      "Kalem"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "043",
+    "subject": "Fen Bilimleri",
+    "term": "1. Dönem",
+    "question": "Sağlıklı büyümek için hangisini yapmalıyız?",
+    "options": [
+      "Dengeli beslenmek",
+      "Sürekli şeker yemek",
+      "Az uyumak",
+      "Hareketsiz kalmak"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "044",
+    "subject": "Fen Bilimleri",
+    "term": "1. Dönem",
+    "question": "Mıknatıs aşağıdakilerden hangisini çeker?",
+    "options": [
+      "Tahta",
+      "Plastik",
+      "Demir çivi",
+      "Cam"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "045",
+    "subject": "Fen Bilimleri",
+    "term": "1. Dönem",
+    "question": "Ses hangi ortamda yayılmaz?",
+    "options": [
+      "Hava",
+      "Su",
+      "Katı madde",
+      "Boşluk"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "046",
+    "subject": "Fen Bilimleri",
+    "term": "1. Dönem",
+    "question": "Dünya'nın şekli aşağıdakilerden hangisine benzer?",
+    "options": [
+      "Küp",
+      "Küre",
+      "Silindir",
+      "Koni"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "047",
+    "subject": "Fen Bilimleri",
+    "term": "1. Dönem",
+    "question": "Aşağıdakilerden hangisi kuvvetin etkisidir?",
+    "options": [
+      "Cismi hareket ettirmek",
+      "Işığı yok etmek",
+      "Suyu renklendirmek",
+      "Zamanı durdurmak"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "048",
+    "subject": "Fen Bilimleri",
+    "term": "1. Dönem",
+    "question": "Saf maddelerden oluşan karışım örneği hangisidir?",
+    "options": [
+      "Tuzlu su",
+      "Demir kaşık",
+      "Altın yüzük",
+      "Şeker kristali"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "049",
+    "subject": "Fen Bilimleri",
+    "term": "1. Dönem",
+    "question": "Besinlerin vücudumuzdaki temel görevi nedir?",
+    "options": [
+      "Enerji ve yapı sağlamak",
+      "Sadece renk vermek",
+      "Sesi artırmak",
+      "Işık üretmek"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "050",
+    "subject": "Fen Bilimleri",
+    "term": "1. Dönem",
+    "question": "Işık kaynağı olmayan hangisidir?",
+    "options": [
+      "Ampul",
+      "Güneş",
+      "Mum",
+      "Ay"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "051",
+    "subject": "Fen Bilimleri",
+    "term": "2. Dönem",
+    "question": "Maddenin sıvı hâline örnek hangisidir?",
+    "options": [
+      "Buz",
+      "Su",
+      "Buhar",
+      "Taş"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "052",
+    "subject": "Fen Bilimleri",
+    "term": "2. Dönem",
+    "question": "Buz erirken hangi hâle geçer?",
+    "options": [
+      "Katıdan sıvıya",
+      "Sıvıdan gaza",
+      "Gazdan katıya",
+      "Sıvıdan katıya"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "053",
+    "subject": "Fen Bilimleri",
+    "term": "2. Dönem",
+    "question": "Elektrik devresinde ampulün ışık vermesi için devre nasıl olmalıdır?",
+    "options": [
+      "Açık",
+      "Kapalı",
+      "Eksik",
+      "Pilsiz"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "054",
+    "subject": "Fen Bilimleri",
+    "term": "2. Dönem",
+    "question": "Aşağıdakilerden hangisi doğal çevre unsurudur?",
+    "options": [
+      "Köprü",
+      "Bina",
+      "Orman",
+      "Yol"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "055",
+    "subject": "Fen Bilimleri",
+    "term": "2. Dönem",
+    "question": "Geri dönüşümün amacı nedir?",
+    "options": [
+      "Atıkları artırmak",
+      "Kaynakları korumak",
+      "Enerjiyi boşa harcamak",
+      "Çevreyi kirletmek"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "056",
+    "subject": "Fen Bilimleri",
+    "term": "2. Dönem",
+    "question": "Diş sağlığı için hangisi doğrudur?",
+    "options": [
+      "Dişleri düzenli fırçalamak",
+      "Çok şeker yemek",
+      "Dişleri hiç temizlememek",
+      "Sert cisim ısırmak"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "057",
+    "subject": "Fen Bilimleri",
+    "term": "2. Dönem",
+    "question": "Kayaçların parçalanmasıyla oluşan yapı hangisidir?",
+    "options": [
+      "Toprak",
+      "Bulut",
+      "Işık",
+      "Ses"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "058",
+    "subject": "Fen Bilimleri",
+    "term": "2. Dönem",
+    "question": "Basit elektrik devresinde enerji kaynağı hangisidir?",
+    "options": [
+      "Ampul",
+      "Pil",
+      "Anahtar",
+      "Bağlantı kablosu"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "059",
+    "subject": "Fen Bilimleri",
+    "term": "2. Dönem",
+    "question": "Hangi davranış kaynakları tasarruflu kullanır?",
+    "options": [
+      "Musluğu açık bırakmak",
+      "Gereksiz ışıkları kapatmak",
+      "Yiyecekleri çöpe atmak",
+      "Kâğıdı israf etmek"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "060",
+    "subject": "Fen Bilimleri",
+    "term": "2. Dönem",
+    "question": "Dünya'nın kendi etrafında dönmesi sonucunda ne oluşur?",
+    "options": [
+      "Mevsimler",
+      "Gece ve gündüz",
+      "Ay tutulması",
+      "Yıl"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "061",
+    "subject": "Sosyal Bilgiler",
+    "term": "1. Dönem",
+    "question": "Bir kişinin doğduğu ve büyüdüğü yere ne denir?",
+    "options": [
+      "Memleket",
+      "Kıta",
+      "Okyanus",
+      "Gezegen"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "062",
+    "subject": "Sosyal Bilgiler",
+    "term": "1. Dönem",
+    "question": "Türkiye'nin başkenti hangisidir?",
+    "options": [
+      "İstanbul",
+      "İzmir",
+      "Ankara",
+      "Bursa"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "063",
+    "subject": "Sosyal Bilgiler",
+    "term": "1. Dönem",
+    "question": "Kroki neyi gösterir?",
+    "options": [
+      "Bir yerin kabataslak çizimini",
+      "Hava sıcaklığını",
+      "Nüfus yaşını",
+      "Zamanı"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "064",
+    "subject": "Sosyal Bilgiler",
+    "term": "1. Dönem",
+    "question": "Aşağıdakilerden hangisi doğal afettir?",
+    "options": [
+      "Trafik kazası",
+      "Deprem",
+      "Elektrik kesintisi",
+      "Çöp birikmesi"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "065",
+    "subject": "Sosyal Bilgiler",
+    "term": "1. Dönem",
+    "question": "Millî bayramlarımızdan biri hangisidir?",
+    "options": [
+      "29 Ekim Cumhuriyet Bayramı",
+      "1 Ocak",
+      "14 Şubat",
+      "31 Aralık"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "066",
+    "subject": "Sosyal Bilgiler",
+    "term": "1. Dönem",
+    "question": "Aile tarihini öğrenmek için hangisinden yararlanabiliriz?",
+    "options": [
+      "Aile büyükleriyle görüşmek",
+      "Rastgele tahmin etmek",
+      "Reklam izlemek",
+      "Oyun puanı"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "067",
+    "subject": "Sosyal Bilgiler",
+    "term": "1. Dönem",
+    "question": "İhtiyaç nedir?",
+    "options": [
+      "Yaşam için gerekli olan",
+      "Sadece eğlence ürünü",
+      "Lüks eşya",
+      "Oyuncak koleksiyonu"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "068",
+    "subject": "Sosyal Bilgiler",
+    "term": "1. Dönem",
+    "question": "Bilinçli tüketici hangisini yapar?",
+    "options": [
+      "Fiş alır",
+      "Etiketsiz ürünü hemen alır",
+      "Son kullanma tarihine bakmaz",
+      "İhtiyacından fazlasını alır"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "069",
+    "subject": "Sosyal Bilgiler",
+    "term": "1. Dönem",
+    "question": "Haritalarda yön bulmaya yarayan temel yönlerden biri hangisidir?",
+    "options": [
+      "Kuzey",
+      "Yukarı sağ",
+      "Ön",
+      "Arka"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "070",
+    "subject": "Sosyal Bilgiler",
+    "term": "1. Dönem",
+    "question": "Kültürel mirasımıza örnek hangisidir?",
+    "options": [
+      "Tarihî eserler",
+      "Plastik poşet",
+      "Tek kullanımlık tabak",
+      "Pil"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "071",
+    "subject": "Sosyal Bilgiler",
+    "term": "2. Dönem",
+    "question": "Demokratik bir sınıfta kararlar nasıl alınmalıdır?",
+    "options": [
+      "Herkesin görüşü dinlenerek",
+      "Sadece bir kişiyle",
+      "Bağırarak",
+      "Rastgele"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "072",
+    "subject": "Sosyal Bilgiler",
+    "term": "2. Dönem",
+    "question": "Çocuk haklarından biri hangisidir?",
+    "options": [
+      "Eğitim hakkı",
+      "Çalıştırılma zorunluluğu",
+      "Oyun yasağı",
+      "Sağlıktan mahrum kalma"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "073",
+    "subject": "Sosyal Bilgiler",
+    "term": "2. Dönem",
+    "question": "Teknolojiyi güvenli kullanmak için ne yapmalıyız?",
+    "options": [
+      "Kişisel bilgileri paylaşmamak",
+      "Şifreyi herkese vermek",
+      "Bilinmeyen bağlantılara tıklamak",
+      "Tanımadığımız kişilere adres vermek"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "074",
+    "subject": "Sosyal Bilgiler",
+    "term": "2. Dönem",
+    "question": "Üretim yapan kişiye ne denir?",
+    "options": [
+      "Üretici",
+      "Tüketici",
+      "Turist",
+      "Seyirci"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "075",
+    "subject": "Sosyal Bilgiler",
+    "term": "2. Dönem",
+    "question": "Ülkemizin yönetim şekli nedir?",
+    "options": [
+      "Krallık",
+      "Cumhuriyet",
+      "İmparatorluk",
+      "Feodalite"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "076",
+    "subject": "Sosyal Bilgiler",
+    "term": "2. Dönem",
+    "question": "Doğal kaynakları korumak için hangisini yapmalıyız?",
+    "options": [
+      "Suyu tasarruflu kullanmak",
+      "Ormanları yakmak",
+      "Çöpleri doğaya atmak",
+      "Enerjiyi boşa harcamak"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "077",
+    "subject": "Sosyal Bilgiler",
+    "term": "2. Dönem",
+    "question": "Yerel yönetim birimlerinden biri hangisidir?",
+    "options": [
+      "Belediye",
+      "Hastane odası",
+      "Market",
+      "Fabrika"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "078",
+    "subject": "Sosyal Bilgiler",
+    "term": "2. Dönem",
+    "question": "Trafikte yayaların kullanması gereken yer hangisidir?",
+    "options": [
+      "Kaldırım",
+      "Araç yolu ortası",
+      "Bisiklet parkı",
+      "Otoyol şeridi"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "079",
+    "subject": "Sosyal Bilgiler",
+    "term": "2. Dönem",
+    "question": "İletişimde empati kurmak ne demektir?",
+    "options": [
+      "Kendini başkasının yerine koymak",
+      "Söz kesmek",
+      "Dinlememek",
+      "Alay etmek"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "080",
+    "subject": "Sosyal Bilgiler",
+    "term": "2. Dönem",
+    "question": "Türkiye hangi kıtalar arasında köprü konumundadır?",
+    "options": [
+      "Asya ve Avrupa",
+      "Afrika ve Amerika",
+      "Avustralya ve Avrupa",
+      "Antarktika ve Asya"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "081",
+    "subject": "İngilizce",
+    "term": "1. Dönem",
+    "question": "“Hello” ne demektir?",
+    "options": [
+      "Güle güle",
+      "Merhaba",
+      "Teşekkürler",
+      "Lütfen"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "082",
+    "subject": "İngilizce",
+    "term": "1. Dönem",
+    "question": "“Good morning” hangi selamlaşmadır?",
+    "options": [
+      "İyi akşamlar",
+      "İyi geceler",
+      "Günaydın",
+      "Hoşça kal"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "083",
+    "subject": "İngilizce",
+    "term": "1. Dönem",
+    "question": "“How are you?” sorusuna uygun cevap hangisidir?",
+    "options": [
+      "I am fine, thanks.",
+      "My name is Ali.",
+      "Good night.",
+      "See you."
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "084",
+    "subject": "İngilizce",
+    "term": "1. Dönem",
+    "question": "“Red” hangi renktir?",
+    "options": [
+      "Mavi",
+      "Kırmızı",
+      "Yeşil",
+      "Sarı"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "085",
+    "subject": "İngilizce",
+    "term": "1. Dönem",
+    "question": "“Ten” sayısı kaçtır?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "086",
+    "subject": "İngilizce",
+    "term": "1. Dönem",
+    "question": "“Sister” ne demektir?",
+    "options": [
+      "Erkek kardeş",
+      "Kız kardeş",
+      "Baba",
+      "Anne"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "087",
+    "subject": "İngilizce",
+    "term": "1. Dönem",
+    "question": "“Monday” hangi gündür?",
+    "options": [
+      "Pazar",
+      "Pazartesi",
+      "Salı",
+      "Cuma"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "088",
+    "subject": "İngilizce",
+    "term": "1. Dönem",
+    "question": "“Pencil” ne demektir?",
+    "options": [
+      "Silgi",
+      "Kalem",
+      "Çanta",
+      "Kitap"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "089",
+    "subject": "İngilizce",
+    "term": "1. Dönem",
+    "question": "“I am hungry.” ne demektir?",
+    "options": [
+      "Susadım",
+      "Üşüdüm",
+      "Açım",
+      "Yorgunum"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "090",
+    "subject": "İngilizce",
+    "term": "1. Dönem",
+    "question": "“Cat” hangi hayvandır?",
+    "options": [
+      "Köpek",
+      "Kedi",
+      "Kuş",
+      "At"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "091",
+    "subject": "İngilizce",
+    "term": "2. Dönem",
+    "question": "“Where are you from?” sorusu neyi sorar?",
+    "options": [
+      "Yaşını",
+      "Nereli olduğunu",
+      "Adını",
+      "Saatini"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "092",
+    "subject": "İngilizce",
+    "term": "2. Dönem",
+    "question": "“I can swim.” cümlesinin anlamı nedir?",
+    "options": [
+      "Yüzebilirim",
+      "Koşamam",
+      "Uyuyorum",
+      "Yemek yiyorum"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "093",
+    "subject": "İngilizce",
+    "term": "2. Dönem",
+    "question": "“Behind” ne demektir?",
+    "options": [
+      "Önünde",
+      "Arkasında",
+      "Üstünde",
+      "İçinde"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "094",
+    "subject": "İngilizce",
+    "term": "2. Dönem",
+    "question": "“What time is it?” sorusu neyi sorar?",
+    "options": [
+      "Hava nasıl",
+      "Saat kaç",
+      "Adın ne",
+      "Neredesin"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "095",
+    "subject": "İngilizce",
+    "term": "2. Dönem",
+    "question": "“Breakfast” hangi öğündür?",
+    "options": [
+      "Kahvaltı",
+      "Öğle yemeği",
+      "Akşam yemeği",
+      "Atıştırmalık"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "096",
+    "subject": "İngilizce",
+    "term": "2. Dönem",
+    "question": "“Doctor” ne demektir?",
+    "options": [
+      "Öğretmen",
+      "Doktor",
+      "Polis",
+      "Aşçı"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "097",
+    "subject": "İngilizce",
+    "term": "2. Dönem",
+    "question": "“Turn left.” ne demektir?",
+    "options": [
+      "Sağa dön",
+      "Sola dön",
+      "Düz git",
+      "Dur"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "098",
+    "subject": "İngilizce",
+    "term": "2. Dönem",
+    "question": "“It is rainy.” hava durumu nasıldır?",
+    "options": [
+      "Güneşli",
+      "Karlı",
+      "Yağmurlu",
+      "Rüzgârsız"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "099",
+    "subject": "İngilizce",
+    "term": "2. Dönem",
+    "question": "“I like apples.” ne demektir?",
+    "options": [
+      "Elmaları severim",
+      "Elma istemem",
+      "Elma satıyorum",
+      "Elma nerede"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "100",
+    "subject": "İngilizce",
+    "term": "2. Dönem",
+    "question": "“Can I have some water?” ne demektir?",
+    "options": [
+      "Su alabilir miyim?",
+      "Saat kaç?",
+      "Nasılsın?",
+      "Nereye gidiyorsun?"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "101",
+    "subject": "Din Kültürü ve Ahlak Bilgisi",
+    "term": "1. Dönem",
+    "question": "İslam dininin kutsal kitabı hangisidir?",
+    "options": [
+      "Tevrat",
+      "İncil",
+      "Kur'an-ı Kerim",
+      "Zebur"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "102",
+    "subject": "Din Kültürü ve Ahlak Bilgisi",
+    "term": "1. Dönem",
+    "question": "Müslümanların ibadet ettiği yapıya ne denir?",
+    "options": [
+      "Cami",
+      "Kütüphane",
+      "Müze",
+      "Stadyum"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "103",
+    "subject": "Din Kültürü ve Ahlak Bilgisi",
+    "term": "1. Dönem",
+    "question": "Selamlaşırken hangisini söyleyebiliriz?",
+    "options": [
+      "Günaydın",
+      "Selamün aleyküm",
+      "İyi geceler",
+      "Hepsi"
+    ],
+    "answer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "104",
+    "subject": "Din Kültürü ve Ahlak Bilgisi",
+    "term": "1. Dönem",
+    "question": "Yardımlaşma nasıl bir davranıştır?",
+    "options": [
+      "Güzel davranış",
+      "Kötü davranış",
+      "İsraf",
+      "Kıskançlık"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "105",
+    "subject": "Din Kültürü ve Ahlak Bilgisi",
+    "term": "1. Dönem",
+    "question": "Ramazan ayında tutulan ibadet hangisidir?",
+    "options": [
+      "Oruç",
+      "Hac",
+      "Kurban",
+      "Zekât"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "106",
+    "subject": "Din Kültürü ve Ahlak Bilgisi",
+    "term": "1. Dönem",
+    "question": "Doğru sözlü olmak hangi değerdir?",
+    "options": [
+      "Dürüstlük",
+      "İsraf",
+      "Kibir",
+      "Öfke"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "107",
+    "subject": "Din Kültürü ve Ahlak Bilgisi",
+    "term": "1. Dönem",
+    "question": "İslam dininde günde kaç vakit namaz vardır?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "108",
+    "subject": "Din Kültürü ve Ahlak Bilgisi",
+    "term": "1. Dönem",
+    "question": "Besmele hangi sözle başlar?",
+    "options": [
+      "Elhamdülillah",
+      "Bismillahirrahmanirrahim",
+      "Allahu ekber",
+      "Amin"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "109",
+    "subject": "Din Kültürü ve Ahlak Bilgisi",
+    "term": "1. Dönem",
+    "question": "Şükretmek ne demektir?",
+    "options": [
+      "Nimetlerin değerini bilmek",
+      "İsraf etmek",
+      "Şikâyet etmek",
+      "Alay etmek"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "110",
+    "subject": "Din Kültürü ve Ahlak Bilgisi",
+    "term": "1. Dönem",
+    "question": "Anne ve babaya karşı nasıl davranmalıyız?",
+    "options": [
+      "Saygılı",
+      "Kaba",
+      "İlgisiz",
+      "Kırıcı"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "111",
+    "subject": "Din Kültürü ve Ahlak Bilgisi",
+    "term": "2. Dönem",
+    "question": "Peygamberimizin adı hangisidir?",
+    "options": [
+      "Hz. Musa",
+      "Hz. İsa",
+      "Hz. Muhammed",
+      "Hz. Nuh"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "112",
+    "subject": "Din Kültürü ve Ahlak Bilgisi",
+    "term": "2. Dönem",
+    "question": "Temizlik dinimizde nasıl değerlendirilir?",
+    "options": [
+      "Önemli bir davranış",
+      "Gereksiz",
+      "Zararlı",
+      "Yasak"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "113",
+    "subject": "Din Kültürü ve Ahlak Bilgisi",
+    "term": "2. Dönem",
+    "question": "Paylaşmak hangi davranışa örnektir?",
+    "options": [
+      "Cömertlik",
+      "Bencillik",
+      "Kıskançlık",
+      "Savurganlık"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "114",
+    "subject": "Din Kültürü ve Ahlak Bilgisi",
+    "term": "2. Dönem",
+    "question": "Ezan neyi bildirir?",
+    "options": [
+      "Namaz vaktini",
+      "Yemek saatini",
+      "Ders başlangıcını",
+      "Uyku saatini"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "115",
+    "subject": "Din Kültürü ve Ahlak Bilgisi",
+    "term": "2. Dönem",
+    "question": "Kâbe hangi şehirdedir?",
+    "options": [
+      "Medine",
+      "Mekke",
+      "Kudüs",
+      "İstanbul"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "116",
+    "subject": "Din Kültürü ve Ahlak Bilgisi",
+    "term": "2. Dönem",
+    "question": "Sabırlı olmak ne demektir?",
+    "options": [
+      "Zorluklar karşısında dayanıklı olmak",
+      "Hemen vazgeçmek",
+      "Öfkelenmek",
+      "Bağırmak"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "117",
+    "subject": "Din Kültürü ve Ahlak Bilgisi",
+    "term": "2. Dönem",
+    "question": "Doğaya ve hayvanlara nasıl davranmalıyız?",
+    "options": [
+      "Merhametli",
+      "Zarar verici",
+      "İlgisiz",
+      "Acımasız"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "118",
+    "subject": "Din Kültürü ve Ahlak Bilgisi",
+    "term": "2. Dönem",
+    "question": "İhtiyaç sahiplerine yardım etmek hangi değerdir?",
+    "options": [
+      "Dayanışma",
+      "Kibir",
+      "İsraf",
+      "Kırgınlık"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "119",
+    "subject": "Din Kültürü ve Ahlak Bilgisi",
+    "term": "2. Dönem",
+    "question": "Dua etmek ne demektir?",
+    "options": [
+      "Allah'a yönelip dilekte bulunmak",
+      "Alışveriş yapmak",
+      "Oyun oynamak",
+      "Yolculuk etmek"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "120",
+    "subject": "Din Kültürü ve Ahlak Bilgisi",
+    "term": "2. Dönem",
+    "question": "Kul hakkına dikkat etmek neyi gerektirir?",
+    "options": [
+      "Başkalarının haklarına saygı duymayı",
+      "Eşyaları izinsiz almayı",
+      "Yalan söylemeyi",
+      "Haksızlık yapmayı"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "121",
+    "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+    "term": "1. Dönem",
+    "question": "Hak nedir?",
+    "options": [
+      "Sahip olduğumuz yetki ve özgürlük",
+      "Sadece görev",
+      "Ceza",
+      "Alışveriş"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "122",
+    "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+    "term": "1. Dönem",
+    "question": "Sorumluluklarımızdan biri hangisidir?",
+    "options": [
+      "Ödevlerimizi yapmak",
+      "Başkalarının eşyasını almak",
+      "Kuralları bozmak",
+      "Çevreyi kirletmek"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "123",
+    "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+    "term": "1. Dönem",
+    "question": "Demokrasi neyi esas alır?",
+    "options": [
+      "Halkın katılımını",
+      "Tek kişinin keyfini",
+      "Şiddeti",
+      "Ayrımcılığı"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "124",
+    "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+    "term": "1. Dönem",
+    "question": "Farklı düşüncelere nasıl yaklaşmalıyız?",
+    "options": [
+      "Saygıyla",
+      "Alay ederek",
+      "Dinlemeyerek",
+      "Kızarak"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "125",
+    "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+    "term": "1. Dönem",
+    "question": "Çocukların temel haklarından biri hangisidir?",
+    "options": [
+      "Eğitim",
+      "İstismar",
+      "Ayrımcılık",
+      "Zorla çalıştırılma"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "126",
+    "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+    "term": "1. Dönem",
+    "question": "Sınıf kuralları nasıl belirlenmelidir?",
+    "options": [
+      "Birlikte konuşarak",
+      "Sadece kavga ederek",
+      "Rastgele",
+      "Kimseye sormadan"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "127",
+    "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+    "term": "1. Dönem",
+    "question": "Adalet ne demektir?",
+    "options": [
+      "Herkese hakkını vermek",
+      "Ayrım yapmak",
+      "Haksızlık etmek",
+      "Kuralsızlık"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "128",
+    "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+    "term": "1. Dönem",
+    "question": "Bir sorun yaşadığımızda ilk olarak ne yapmalıyız?",
+    "options": [
+      "Konuşarak çözüm aramak",
+      "Şiddet uygulamak",
+      "Eşyaları kırmak",
+      "Tehdit etmek"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "129",
+    "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+    "term": "1. Dönem",
+    "question": "Özel yaşamın gizliliği neyi korur?",
+    "options": [
+      "Kişisel alanımızı",
+      "Ortak parkı",
+      "Trafik yolunu",
+      "Sınıf tahtasını"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "130",
+    "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+    "term": "1. Dönem",
+    "question": "Oy kullanırken neye dikkat etmeliyiz?",
+    "options": [
+      "Özgür irademizle karar vermeye",
+      "Başkalarının zorlamasına",
+      "Rastgele seçmeye",
+      "Hediye almaya"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "131",
+    "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+    "term": "2. Dönem",
+    "question": "Eşitlik ne demektir?",
+    "options": [
+      "Ayrım yapmadan eşit hak tanımak",
+      "Birini üstün görmek",
+      "Kuralları yok saymak",
+      "Haksızlık"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "132",
+    "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+    "term": "2. Dönem",
+    "question": "Uzlaşma ne sağlar?",
+    "options": [
+      "Ortak çözüm bulmayı",
+      "Kavgayı büyütmeyi",
+      "İletişimi kesmeyi",
+      "Sorunu saklamayı"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "133",
+    "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+    "term": "2. Dönem",
+    "question": "İyi bir vatandaş hangisini yapar?",
+    "options": [
+      "Kanunlara uyar",
+      "Çevreyi kirletir",
+      "Kamu malına zarar verir",
+      "Hakları yok sayar"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "134",
+    "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+    "term": "2. Dönem",
+    "question": "Kamu malı nasıl kullanılmalıdır?",
+    "options": [
+      "Özenle korunmalı",
+      "Kırılmalı",
+      "Eve götürülmeli",
+      "Kirletilmeli"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "135",
+    "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+    "term": "2. Dönem",
+    "question": "İfade özgürlüğü ne sağlar?",
+    "options": [
+      "Düşüncelerimizi uygun biçimde açıklamayı",
+      "Başkalarına hakaret etmeyi",
+      "Şiddeti",
+      "Yalanı"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "136",
+    "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+    "term": "2. Dönem",
+    "question": "Empati nedir?",
+    "options": [
+      "Kendimizi başkasının yerine koymak",
+      "Söz kesmek",
+      "Emir vermek",
+      "Alay etmek"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "137",
+    "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+    "term": "2. Dönem",
+    "question": "Bir arkadaşımızın hakkı ihlal edilirse ne yapmalıyız?",
+    "options": [
+      "Güvenilir bir yetişkinden yardım istemek",
+      "Görmezden gelmek",
+      "Onu suçlamak",
+      "Alay etmek"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "138",
+    "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+    "term": "2. Dönem",
+    "question": "Kurallar neden gereklidir?",
+    "options": [
+      "Düzeni ve güvenliği sağlamak için",
+      "Özgürlüğü tamamen yok etmek için",
+      "Kavga çıkarmak için",
+      "Zaman kaybettirmek için"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "139",
+    "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+    "term": "2. Dönem",
+    "question": "Katılım hakkı ne demektir?",
+    "options": [
+      "Kararlara görüşümüzle katkı sunmak",
+      "Hiç konuşmamak",
+      "Başkalarını susturmak",
+      "Kuralları bozmak"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "140",
+    "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+    "term": "2. Dönem",
+    "question": "Dayanışma hangi durumda önemlidir?",
+    "options": [
+      "Ortak sorunları çözmede",
+      "İnsanları ayırmada",
+      "İsraf etmede",
+      "Kavga etmede"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "141",
+    "subject": "Trafik Güvenliği",
+    "term": "1. Dönem",
+    "question": "Yaya geçidinde kimlere öncelik verilmelidir?",
+    "options": [
+      "Yayalara",
+      "Park etmiş araçlara",
+      "Bisikletlere her zaman",
+      "Kamyonlara"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "142",
+    "subject": "Trafik Güvenliği",
+    "term": "1. Dönem",
+    "question": "Trafik ışığında kırmızı ışık ne anlama gelir?",
+    "options": [
+      "Dur",
+      "Geç",
+      "Hızlan",
+      "Dikkat etmeden ilerle"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "143",
+    "subject": "Trafik Güvenliği",
+    "term": "1. Dönem",
+    "question": "Karşıdan karşıya geçerken hangi yönleri kontrol etmeliyiz?",
+    "options": [
+      "Sağı ve solu",
+      "Sadece yukarıyı",
+      "Sadece arkayı",
+      "Yere bakmayı"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "144",
+    "subject": "Trafik Güvenliği",
+    "term": "1. Dönem",
+    "question": "Araçta güvenlik için ne takmalıyız?",
+    "options": [
+      "Emniyet kemeri",
+      "Atkı",
+      "Şapka",
+      "Gözlük"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "145",
+    "subject": "Trafik Güvenliği",
+    "term": "1. Dönem",
+    "question": "Okul taşıtında hangi davranış doğrudur?",
+    "options": [
+      "Araç tamamen durunca inmek",
+      "Hareket hâlinde inmek",
+      "Şoförü oyalamak",
+      "Pencereden sarkmak"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "146",
+    "subject": "Trafik Güvenliği",
+    "term": "1. Dönem",
+    "question": "Trafik işaretleri ne işe yarar?",
+    "options": [
+      "Güvenli ulaşımı sağlar",
+      "Süs amaçlıdır",
+      "Yolu daraltır",
+      "Araçları boyar"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "147",
+    "subject": "Trafik Güvenliği",
+    "term": "1. Dönem",
+    "question": "Kaldırım kimler içindir?",
+    "options": [
+      "Yayalar",
+      "Otomobiller",
+      "Kamyonlar",
+      "Traktörler"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "148",
+    "subject": "Trafik Güvenliği",
+    "term": "1. Dönem",
+    "question": "Bisiklet sürerken hangisi kullanılmalıdır?",
+    "options": [
+      "Kask",
+      "Terlik",
+      "Kulaklıkla yüksek ses",
+      "Gözleri kapatma"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "149",
+    "subject": "Trafik Güvenliği",
+    "term": "1. Dönem",
+    "question": "Yolun karşısına geçmek için en güvenli yer hangisidir?",
+    "options": [
+      "Yaya geçidi",
+      "Viraj",
+      "Araçların arası",
+      "Otoyol"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "150",
+    "subject": "Trafik Güvenliği",
+    "term": "1. Dönem",
+    "question": "Trafikte sabırlı olmak neden önemlidir?",
+    "options": [
+      "Kazaları önlemeye yardımcı olur",
+      "Yolu uzatır",
+      "Kuralları gereksiz kılar",
+      "Gürültüyü artırır"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "151",
+    "subject": "Trafik Güvenliği",
+    "term": "2. Dönem",
+    "question": "Ambulans sirenini duyduğumuzda sürücüler ne yapmalıdır?",
+    "options": [
+      "Güvenli şekilde yol vermeli",
+      "Yarışmalı",
+      "Yolu kapatmalı",
+      "Hızlanıp önüne geçmeli"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "152",
+    "subject": "Trafik Güvenliği",
+    "term": "2. Dönem",
+    "question": "Gece yürürken görünür olmak için ne kullanabiliriz?",
+    "options": [
+      "Açık renk veya reflektörlü giysi",
+      "Siyah örtü",
+      "Kulaklık",
+      "Koyu cam"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "153",
+    "subject": "Trafik Güvenliği",
+    "term": "2. Dönem",
+    "question": "Araçta çocuklar nerede oturmalıdır?",
+    "options": [
+      "Uygun çocuk koltuğunda/arka koltukta",
+      "Sürücünün kucağında",
+      "Bagajda",
+      "Ayakta"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "154",
+    "subject": "Trafik Güvenliği",
+    "term": "2. Dönem",
+    "question": "Trafik kazası gördüğümüzde ne yapmalıyız?",
+    "options": [
+      "Bir yetişkine ve 112'ye haber vermek",
+      "Olay yerinde oyun oynamak",
+      "Yaralıyı bilinçsizce taşımak",
+      "Fotoğraf için yolu kapatmak"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "155",
+    "subject": "Trafik Güvenliği",
+    "term": "2. Dönem",
+    "question": "Tren yolu geçidinde bariyer kapanıyorsa ne yapmalıyız?",
+    "options": [
+      "Durup beklemeliyiz",
+      "Altından geçmeliyiz",
+      "Koşmalıyız",
+      "Bariyeri kaldırmalıyız"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "156",
+    "subject": "Trafik Güvenliği",
+    "term": "2. Dönem",
+    "question": "Trafikte bisiklet kullanırken hangi kurala uymalıyız?",
+    "options": [
+      "Trafik işaretlerine uymak",
+      "Ters yönde gitmek",
+      "Araçlara tutunmak",
+      "Kaldırımda hız yapmak"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "157",
+    "subject": "Trafik Güvenliği",
+    "term": "2. Dönem",
+    "question": "Yol çalışması levhası ne bildirir?",
+    "options": [
+      "İleride çalışma olduğunu",
+      "Yakında okul olduğunu",
+      "Park yerini",
+      "Hastaneyi"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "158",
+    "subject": "Trafik Güvenliği",
+    "term": "2. Dönem",
+    "question": "Toplu taşıma aracında nasıl davranmalıyız?",
+    "options": [
+      "Yaşlı ve ihtiyaç sahiplerine yer vermek",
+      "Bağırmak",
+      "Kapıya yaslanmak",
+      "Çöp atmak"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "159",
+    "subject": "Trafik Güvenliği",
+    "term": "2. Dönem",
+    "question": "Trafikte telefonla ilgilenmek neden tehlikelidir?",
+    "options": [
+      "Dikkati dağıtır",
+      "Yakıtı artırır",
+      "Yolu aydınlatır",
+      "Sesi azaltır"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "160",
+    "subject": "Trafik Güvenliği",
+    "term": "2. Dönem",
+    "question": "Güvenli oyun alanı neresidir?",
+    "options": [
+      "Trafikten uzak oyun parkı",
+      "Cadde",
+      "Otopark girişi",
+      "Yol kenarı"
+    ],
+    "answer": 0,
+    "explanation": ""
+  }
+]

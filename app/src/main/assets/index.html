@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta name="theme-color" content="#172554"><title>TAHTA KALEM SINAV AI</title>
+<style>
+:root{--navy:#172554;--blue:#2563eb;--bg:#f3f6fc;--ink:#172033;--muted:#64748b;--line:#e2e8f0;--green:#15803d;--red:#b91c1c}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px system-ui,-apple-system,Segoe UI,sans-serif}
+header{background:linear-gradient(135deg,#172554,#1d4ed8);color:white;padding:22px 18px 25px;border-radius:0 0 24px 24px}
+header small{opacity:.8;letter-spacing:1.5px;font-weight:700}h1{font-size:23px;margin:6px 0}header p{margin:0;opacity:.85;font-size:13px}
+main{max-width:720px;margin:auto;padding:16px}.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:9px;margin-top:-4px}
+.stat,.panel,.subject{background:white;border:1px solid var(--line);border-radius:15px;padding:14px}.stat b{font-size:22px;display:block;color:var(--navy)}.stat span{font-size:11px;color:var(--muted)}
+h2{font-size:18px;margin:22px 2px 10px}.grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.subject{cursor:pointer;text-align:left;color:var(--ink);font:inherit}.subject b{display:block;font-size:14px}.subject span{color:var(--muted);font-size:12px}
+button,select,input{font:inherit}button{border:0;border-radius:12px;padding:12px 15px;background:var(--blue);color:white;font-weight:700;cursor:pointer}.secondary{background:#eaf0ff;color:#1d4ed8}.full{width:100%}.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+select,input{padding:11px;border:1px solid var(--line);border-radius:10px;background:white;color:var(--ink);max-width:100%}
+.hidden{display:none!important}.muted{color:var(--muted);font-size:13px}.question{font-size:19px;font-weight:700;line-height:1.4;margin:18px 0}
+.option{display:block;width:100%;text-align:left;background:white;color:var(--ink);border:1px solid var(--line);margin:9px 0;font-weight:500}.option.selected{border:2px solid var(--blue);background:#eff6ff}.option:disabled{opacity:1}
+.progress{height:7px;background:#e2e8f0;border-radius:10px;overflow:hidden}.progress i{display:block;height:100%;background:#2563eb}
+.pill{display:inline-block;background:#eff6ff;color:#1d4ed8;border-radius:30px;padding:5px 9px;font-size:12px}
+.result{text-align:center;padding:22px}.score{font-size:52px;font-weight:800;color:var(--navy)}.correct{color:var(--green)}.wrong{color:var(--red)}
+footer{text-align:center;color:var(--muted);font-size:11px;padding:22px}
+</style></head><body>
+<header><small>TAHTA KALEM</small><h1>SINAV AI</h1><p>4. Sınıf • Soru Havuzu • Otomatik Değerlendirme</p></header>
+<main>
+<section id="home">
+<div class="stats"><div class="stat"><b id="totalQ">160</b><span>HAVUZDAKİ SORU</span></div><div class="stat"><b id="examCount">0</b><span>TAMAMLANAN SINAV</span></div><div class="stat"><b id="avgScore">—</b><span>ORTALAMA PUAN</span></div></div>
+<h2>Sınav oluştur</h2><div class="panel">
+<label class="muted">Ders</label><select id="subject" class="full"></select>
+<div class="row" style="margin-top:10px"><select id="term" style="flex:1"><option value="all">Tüm dönemler</option><option>1. Dönem</option><option>2. Dönem</option></select><select id="count" style="flex:1"><option value="20">20 soru</option><option value="10">10 soru</option><option value="5">5 soru</option></select></div>
+<p class="muted">Sorular havuzdan seçilir. Her ders için başlangıçta 20 soru bulunur.</p><button class="full" onclick="startExam()">Sınava başla</button>
+</div>
+<h2>Dersler ve soru havuzu</h2><div class="grid" id="subjects"></div>
+<h2>Son sınavlar</h2><div class="panel" id="history"><span class="muted">Henüz sınav tamamlanmadı.</span></div>
+<div class="row" style="margin-top:14px"><button class="secondary" onclick="exportData()">Yedek indir</button><button class="secondary" onclick="document.getElementById('importFile').click()">Yedek yükle</button><input id="importFile" type="file" accept="application/json" class="hidden" onchange="importData(event)"></div>
+</section>
+<section id="exam" class="hidden">
+<div class="row" style="justify-content:space-between"><span class="pill" id="examMeta"></span><span class="muted" id="counter"></span></div>
+<div class="progress" style="margin-top:12px"><i id="bar" style="width:0%"></i></div>
+<div class="question" id="qtext"></div><div id="answers"></div>
+<div class="row" style="justify-content:space-between;margin-top:18px"><button class="secondary" onclick="prevQ()">Önceki</button><button onclick="nextQ()" id="nextBtn">Sonraki</button></div>
+<button class="full" style="margin-top:12px;background:#15803d" onclick="finishExam()">Sınavı bitir ve puanla</button>
+</section>
+<section id="result" class="hidden"><div class="panel result"><span class="pill">SINAV SONUCU</span><div class="score" id="score">0</div><b>100 üzerinden puan</b><p id="resultText"></p><div class="row" style="justify-content:center"><span class="correct" id="correctN"></span><span class="wrong" id="wrongN"></span><span id="blankN"></span></div></div><h2>Cevap değerlendirmesi</h2><div id="review"></div><button class="full" style="margin-top:14px" onclick="goHome()">Ana sayfaya dön</button></section>
+</main><footer>Veriler bu cihazda saklanır. Uygulamayı kaldırmadan önce yedek alın.</footer>
+<script src="app.js"></script></body></html>
